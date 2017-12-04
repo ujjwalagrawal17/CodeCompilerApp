@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ujjwal/android-studio-2/gradle/3.3/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/app-pro/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_8b8e4e1c027ccb2ce760605758ad454b43fac18c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/libraries/FloatingActionButton/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ca2b3fc05eff2101fafc41aaddc6054b9d60ab3">
+        <dex dex="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/app-pro/build/intermediates/pre-dexed/debug/classes_2c46e927802b8e430603903e36f244cd9d275c28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/libraries/sharedCode/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6f3364fdc6894dfcb9f3f7d3beb543fd9294bbb">
+        <dex dex="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/app-pro/build/intermediates/pre-dexed/debug/classes_b1940db10518c3286c34c6d4108340d65d106aa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ujjwal/android-studio-2/gradle/3.3/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/app-pro/build/intermediates/pre-dexed/debug/okhttp-3.6.0_3a18d196c93ef726071f2c65f48e1332cd83d28e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ujjwal/android-studio-2/gradle/3.3/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/app-pro/build/intermediates/pre-dexed/debug/logging-interceptor-3.4.1_649cfce98da0cd2b921070620560ebba8472deb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ujjwal/android-studio-2/gradle/3.3/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8/rxjava-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8">
+        <dex dex="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/app-pro/build/intermediates/pre-dexed/debug/rxjava-1.2.0_cd3b3e2648ab1ea13752f70ac541b39040d0fd74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ujjwal/android-studio-2/gradle/3.3/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/app-pro/build/intermediates/pre-dexed/debug/okio-1.11.0_b23fa20a7a6aae8bb835d9f638cddb0d35619038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ujjwal/android-studio-2/gradle/3.3/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/app-pro/build/intermediates/pre-dexed/debug/retrofit-2.2.0_ea94e703586e806edcf2025f6c9bad0385ebd70c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ujjwal/android-studio-2/gradle/3.3/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/app-pro/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_cfd0db6ade6f98622013bf5ee71a6ef8a7e0667b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ujjwal/android-studio-2/gradle/3.3/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/app-pro/build/intermediates/pre-dexed/debug/gson-2.7_60e7cbff4a8108e18fe42e6d3f83bf4a1b6922fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ujjwal/android-studio-2/gradle/3.3/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.2.0/d80514b6f44f0c4c6234e2d67fea783a25e77275/adapter-rxjava-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d80514b6f44f0c4c6234e2d67fea783a25e77275">
+        <dex dex="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/app-pro/build/intermediates/pre-dexed/debug/adapter-rxjava-2.2.0_f2ac1a82882f0c1eb4835083b6389b6870078b9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/libraries/sharedCode/build/intermediates/bundles/default/libs/juniversalchardet-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87675a9ecd5304c687d86ce2ed20616f189823ad">
+        <dex dex="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/app-pro/build/intermediates/pre-dexed/debug/juniversalchardet-1.0.3_a0a9d5e7c2e6695a2461a019f24ec25019ec1c46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/libraries/sharedCode/build/intermediates/bundles/default/libs/markdownview-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99339c10104c73e038bec74a47136bde2a0f826d">
+        <dex dex="/home/ujjwal/AndroidStudioProjects/Other/turbo-editor/app-pro/build/intermediates/pre-dexed/debug/markdownview-1.2_a04e81c534d0e346fd51a1c61795e66469133034.jar" />
+    </item>
+
+</items>
